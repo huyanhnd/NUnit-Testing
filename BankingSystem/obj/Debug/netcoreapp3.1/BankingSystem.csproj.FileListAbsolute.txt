@@ -1,0 +1,14 @@
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.csproj.AssemblyReference.cache
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.AssemblyInfoInputs.cache
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.AssemblyInfo.cs
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.csproj.CoreCompileInputs.cache
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.exe
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.deps.json
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.runtimeconfig.json
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.runtimeconfig.dev.json
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.dll
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.pdb
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.dll
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.pdb
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\bin\Debug\net6.0\BankingSystem.exe
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\bin\Debug\net6.0\BankingSystem.deps.json
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\bin\Debug\net6.0\BankingSystem.runtimeconfig.json
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\bin\Debug\net6.0\BankingSystem.dll
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\bin\Debug\net6.0\BankingSystem.pdb
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\obj\Debug\net6.0\BankingSystem.csproj.AssemblyReference.cache
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\obj\Debug\net6.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\obj\Debug\net6.0\BankingSystem.AssemblyInfoInputs.cache
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\obj\Debug\net6.0\BankingSystem.AssemblyInfo.cs
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\obj\Debug\net6.0\BankingSystem.csproj.CoreCompileInputs.cache
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\obj\Debug\net6.0\BankingSystem.dll
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\obj\Debug\net6.0\refint\BankingSystem.dll
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\obj\Debug\net6.0\BankingSystem.pdb
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\obj\Debug\net6.0\BankingSystem.genruntimeconfig.cache
+D:\University\Testing\UnitTesting\BankingSystem\BankingSystem\obj\Debug\net6.0\ref\BankingSystem.dll
